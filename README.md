@@ -1,2 +1,3 @@
-# prueba1
-prueba
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
